@@ -4,6 +4,10 @@ Host [google-play-scraper](https://github.com/facundoolano/google-play-scraper) 
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/tiennm99/store-scraper-api)
 
+## Demo
+
+<https://store-scraper-api.vercel.app> — live demo on Vercel free tier, public use.
+
 ## Usage
 
 POST requests to `/apple/:method` or `/google/:method` with JSON body params.
