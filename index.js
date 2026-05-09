@@ -9,7 +9,7 @@ app.use(express.json({ limit: '10mb' }));
 app.get('/', (req, res) => {
   res.json({
     message: 'Store Scraper',
-    homepage: 'https://github.com/tiennm99/store-scraper'
+    homepage: 'https://github.com/tiennm99/store-scraper-api'
   });
 });
 
